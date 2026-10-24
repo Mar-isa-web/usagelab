@@ -1,3 +1,10 @@
+# ⚠️ 本仓库已并入 [HarnessLab](https://github.com/Mar-isa-web/harnesslab)
+
+> 2026-10-24 起，UsageLab 作为观测面板子系统（usagelab/ 目录）合并进 HarnessLab 主仓库，
+> 完整提交历史一并保留。此仓库已归档只读，新 issue/开发请去主仓库。
+
+---
+
 # UsageLab
 
 [![CI](https://github.com/Mar-isa-web/usagelab/actions/workflows/ci.yml/badge.svg)](https://github.com/Mar-isa-web/usagelab/actions/workflows/ci.yml)
